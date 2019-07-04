@@ -23,6 +23,8 @@
 - https://getbootstrap.com/docs/4.3/examples/album/
 
 ### Resources
+- https://getbootstrap.com/docs/4.0/layout/overview/
+- https://getbootstrap.com/docs/4.0/layout/grid/
 - https://getbootstrap.com/docs/4.3/components/navbar/
 - https://getbootstrap.com/docs/4.3/components/carousel/
 - https://getbootstrap.com/docs/4.3/components/card/
